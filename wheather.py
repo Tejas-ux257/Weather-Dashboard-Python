@@ -17,7 +17,7 @@ class WeatherDashboard:
         self.root.configure(bg="#f0f0f0")
         
         # API Configuration
-        self.api_key = "647262c50aeb81c390e7be384209a7b7"  # Get free key from openweathermap.org
+        self.api_key = "YOUR_API_KEY"  # Get free key from openweathermap.org
         self.base_url = "https://api.openweathermap.org/data/2.5/weather"
         self.forecast_url = "http://api.openweathermap.org/data/2.5/forecast"
         
