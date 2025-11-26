@@ -14,6 +14,33 @@ An interactive Python project using OpenWeatherMap API, Tkinter, and Matplotlib 
 - Requests
 - OpenWeatherMap API
 
+🔑 API Setup
+
+- Sign up at https://openweathermap.org/
+
+- Get your free API Key
+
+- Open weather.py
+
+- Replace this line:
+
+📊 Visualizations Included
+
+Temperature vs Time (Line chart)
+
+Feels-like comparison
+
+Humidity levels (Bar chart)
+
+Temperature distribution (Pie chart)
+
+🧾 Example Output (UI Preview)
+
+🟧 Title bar
+🔷 Weather details section
+📊 Graphs auto-update after search
+📁 “Save Data” button to export JSON
+
 ## 🚀 How to Run
 1. Clone repo:
    ```bash
