@@ -27,11 +27,8 @@ An interactive Python project using OpenWeatherMap API, Tkinter, and Matplotlib 
 📊 Visualizations Included
 
 Temperature vs Time (Line chart)
-
 Feels-like comparison
-
 Humidity levels (Bar chart)
-
 Temperature distribution (Pie chart)
 
 🧾 Example Output (UI Preview)
